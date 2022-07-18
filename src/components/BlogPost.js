@@ -12,7 +12,4 @@ function BlogPost() {
     </div>
   );
 }
-
-
-
 export default BlogPost;
